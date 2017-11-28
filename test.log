@@ -1,10 +1,4 @@
-0 info it worked if it ends with ok
-1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
-1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
-1 verbose cli   'start',
-1 verbose cli   'bin/www' ]
-2 info using npm@3.10.10
-3 info using node@v6.11.2
+
 4 verbose run-script [ 'prestart', 'start', 'poststart' ]
 5 info lifecycle location@0.0.0~prestart: location@0.0.0
 6 silly lifecycle location@0.0.0~prestart: no script for prestart, continuing
