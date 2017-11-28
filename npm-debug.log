@@ -12,7 +12,7 @@
 8 verbose lifecycle location@0.0.0~start: unsafe-perm in lifecycle true
 9 verbose lifecycle location@0.0.0~start: PATH: C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin;D:\work\location\node_modules\.bin;C:\Users\dell\bin;D:\Program Files\Git\mingw64\bin;D:\Program Files\Git\usr\local\bin;D:\Program Files\Git\usr\bin;D:\Program Files\Git\usr\bin;D:\Program Files\Git\mingw64\bin;D:\Program Files\Git\usr\bin;C:\Users\dell\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0;D:\phpStudy\php\php-5.6.27-nts\php.exe;D:\phpStudy\php\php-5.6.27-nts;C:\ProgramData\ComposerSetup\bin;D:\Program Files\Git\cmd;C:\Program Files\TortoiseGit\bin;C:\Program Files\nodejs;C:\Users\dell\AppData\Roaming\Composer\vendor\bin;C:\Users\dell\AppData\Roaming\npm;D:\learn\red;D:\Program Files\Git\usr\bin\vendor_perl;D:\Program Files\Git\usr\bin\core_perl
 10 verbose lifecycle location@0.0.0~start: CWD: D:\work\location
-11 silly lifecycle location@0.0.0~start: Args: [ '/d /s /c', 'node ./bin/www "bin/www"' ]
+1 silly lifecycle location@0.0.0~start: Args: [ '/d /s /c', 'node ./bin/www "bin/www"' ]
 12 silly lifecycle location@0.0.0~start: Returned: code: 1  signal: null
 13 info lifecycle location@0.0.0~start: Failed to exec start script
 14 verbose stack Error: location@0.0.0 start: `node ./bin/www "bin/www"`
