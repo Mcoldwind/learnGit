@@ -1,5 +1,4 @@
 
-4 verbose run-script [ 'prestart', 'start', 'poststart' ]
 5 info lifecycle location@0.0.0~prestart: location@0.0.0
 6 silly lifecycle location@0.0.0~prestart: no script for prestart, continuing
 7 info lifecycle location@0.0.0~start: location@0.0.0
